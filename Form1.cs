@@ -57,7 +57,7 @@ namespace CS311_Project2_LTC
                     // win condition if it's the first roll
                     if (diceSum == 7 || diceSum == 11)
                     {
-                        lblAnnouncement.Text = "YOU WIN!!";
+                        lblAnnouncement.Text = $"You rolled a {diceSum}. \nYOU WIN!!";
                         bankAmount += betAmount;
                         lblBank.Text = $"${bankAmount}";
                         btnRoll.Enabled = false;
@@ -67,7 +67,7 @@ namespace CS311_Project2_LTC
                     // lose condition if it's the first roll
                     else if (diceSum == 2 || diceSum == 3 || diceSum == 12)
                     {
-                        lblAnnouncement.Text = "YOU LOSE!!";
+                        lblAnnouncement.Text = $"You rolled a {diceSum}. \nYOU LOSE!!";
                         bankAmount -= betAmount;
                         lblBank.Text = $"${bankAmount}";
                         btnRoll.Enabled = false;
@@ -96,7 +96,7 @@ namespace CS311_Project2_LTC
                     // win condition if user reaches the point
                     if (diceSum == myPoint)
                     {
-                        lblAnnouncement.Text = "YOU WIN!!";
+                        lblAnnouncement.Text = $"You rolled a {diceSum}. \nYOU WIN!!"; ;
                         bankAmount += betAmount;
                         lblBank.Text = $"${bankAmount}";
                         btnRoll.Enabled = false;
@@ -106,7 +106,7 @@ namespace CS311_Project2_LTC
                     // lose condition if user reaches 7 while rolling for point
                     else if (diceSum == 7)
                     {
-                        lblAnnouncement.Text = "YOU LOSE!!";
+                        lblAnnouncement.Text = $"You rolled a {diceSum}. \nYOU LOSE!!";
                         bankAmount -= betAmount;
                         lblBank.Text = $"${bankAmount}";
                         btnRoll.Enabled = false;
