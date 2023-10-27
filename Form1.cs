@@ -16,6 +16,8 @@ namespace CS311_Project2_LTC
             lblBank.Text = $"${bankAmount}";
             lblDice1.Text = "";
             lblDice2.Text = "";
+            picBoxDice1.Visible = false;
+            picBoxDice2.Visible = false;
         }// end Empty-argument constructor
 
         // btnRoll_Click method that will call the calculate_score method
@@ -43,6 +45,14 @@ namespace CS311_Project2_LTC
             // setting the dice to the labels text and making them a string
             lblDice1.Text = dice1.ToString();
             lblDice2.Text = dice2.ToString();
+
+            // making the dice pictures visible
+            picBoxDice1.Visible = true;
+            picBoxDice2.Visible = true;
+
+            // set the images to it's corresponding dice number
+            picBoxDice1.ImageLocation = $"C:\\Users\\lawre\\Projects\\bellarmine\\CS311\\Module1\\CS311_Project2_LTC\\images\\{dice1}.png";
+            picBoxDice2.ImageLocation = $"C:\\Users\\lawre\\Projects\\bellarmine\\CS311\\Module1\\CS311_Project2_LTC\\images\\{dice2}.png";
 
             // setting the sum of the dice
             int diceSum = dice1 + dice2;

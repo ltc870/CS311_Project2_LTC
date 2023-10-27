@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(formCraps));
             lblDice2 = new Label();
             lblDice1 = new Label();
             lblBankBalance = new Label();
@@ -36,13 +37,17 @@
             btnRoll = new Button();
             lblAnnouncement = new Label();
             btnGameRules = new Button();
+            picBoxDice1 = new PictureBox();
+            picBoxDice2 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)picBoxDice1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)picBoxDice2).BeginInit();
             SuspendLayout();
             // 
             // lblDice2
             // 
             lblDice2.AutoSize = true;
             lblDice2.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point);
-            lblDice2.Location = new Point(424, 181);
+            lblDice2.Location = new Point(425, 150);
             lblDice2.Name = "lblDice2";
             lblDice2.Size = new Size(71, 30);
             lblDice2.TabIndex = 1;
@@ -52,7 +57,7 @@
             // 
             lblDice1.AutoSize = true;
             lblDice1.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point);
-            lblDice1.Location = new Point(263, 181);
+            lblDice1.Location = new Point(264, 150);
             lblDice1.Name = "lblDice1";
             lblDice1.Size = new Size(71, 30);
             lblDice1.TabIndex = 2;
@@ -90,7 +95,7 @@
             // btnRoll
             // 
             btnRoll.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point);
-            btnRoll.Location = new Point(91, 240);
+            btnRoll.Location = new Point(35, 341);
             btnRoll.Name = "btnRoll";
             btnRoll.Size = new Size(112, 76);
             btnRoll.TabIndex = 6;
@@ -102,7 +107,7 @@
             // 
             lblAnnouncement.AutoSize = true;
             lblAnnouncement.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point);
-            lblAnnouncement.Location = new Point(283, 325);
+            lblAnnouncement.Location = new Point(275, 366);
             lblAnnouncement.Name = "lblAnnouncement";
             lblAnnouncement.Size = new Size(124, 30);
             lblAnnouncement.TabIndex = 7;
@@ -111,7 +116,7 @@
             // btnGameRules
             // 
             btnGameRules.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point);
-            btnGameRules.Location = new Point(566, 321);
+            btnGameRules.Location = new Point(571, 362);
             btnGameRules.Name = "btnGameRules";
             btnGameRules.Size = new Size(149, 34);
             btnGameRules.TabIndex = 8;
@@ -119,11 +124,33 @@
             btnGameRules.UseVisualStyleBackColor = true;
             btnGameRules.Click += btnGameRules_Click;
             // 
+            // picBoxDice1
+            // 
+            picBoxDice1.Image = (Image)resources.GetObject("picBoxDice1.Image");
+            picBoxDice1.Location = new Point(223, 183);
+            picBoxDice1.Name = "picBoxDice1";
+            picBoxDice1.Size = new Size(112, 104);
+            picBoxDice1.SizeMode = PictureBoxSizeMode.StretchImage;
+            picBoxDice1.TabIndex = 9;
+            picBoxDice1.TabStop = false;
+            // 
+            // picBoxDice2
+            // 
+            picBoxDice2.Image = (Image)resources.GetObject("picBoxDice2.Image");
+            picBoxDice2.Location = new Point(384, 183);
+            picBoxDice2.Name = "picBoxDice2";
+            picBoxDice2.Size = new Size(112, 104);
+            picBoxDice2.SizeMode = PictureBoxSizeMode.StretchImage;
+            picBoxDice2.TabIndex = 10;
+            picBoxDice2.TabStop = false;
+            // 
             // formCraps
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(827, 446);
+            Controls.Add(picBoxDice2);
+            Controls.Add(picBoxDice1);
             Controls.Add(btnGameRules);
             Controls.Add(lblAnnouncement);
             Controls.Add(btnRoll);
@@ -134,6 +161,8 @@
             Controls.Add(lblDice2);
             Name = "formCraps";
             Text = "Craps";
+            ((System.ComponentModel.ISupportInitialize)picBoxDice1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)picBoxDice2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -146,5 +175,7 @@
         private Button btnRoll;
         private Label lblAnnouncement;
         private Button btnGameRules;
+        private PictureBox picBoxDice1;
+        private PictureBox picBoxDice2;
     }
 }

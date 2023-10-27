@@ -30,3 +30,4 @@ C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\D
 C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.pdb
 C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.genruntimeconfig.cache
 C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\ref\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.Properties.Resources.resources
