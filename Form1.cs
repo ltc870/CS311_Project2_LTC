@@ -14,6 +14,8 @@ namespace CS311_Project2_LTC
             InitializeComponent();
             lblAnnouncement.Text = "Please place your bet!";
             lblBank.Text = $"${bankAmount}";
+            lblDice1.Text = "";
+            lblDice2.Text = "";
         }// end Empty-argument constructor
 
         // btnRoll_Click method that will call the calculate_score method
