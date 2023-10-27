@@ -1,0 +1,32 @@
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\bin\Debug\net6.0-windows\CS311_Project2_LTC.exe
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\bin\Debug\net6.0-windows\CS311_Project2_LTC.deps.json
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\bin\Debug\net6.0-windows\CS311_Project2_LTC.runtimeconfig.json
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\bin\Debug\net6.0-windows\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\bin\Debug\net6.0-windows\CS311_Project2_LTC.pdb
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.csproj.GenerateResource.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.AssemblyInfoInputs.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.AssemblyInfo.cs
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\refint\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.pdb
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.genruntimeconfig.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\ref\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC\obj\Debug\net6.0-windows\CS311_Project2_LTC.formCraps.resources
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\bin\Debug\net6.0-windows\CS311_Project2_LTC.exe
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\bin\Debug\net6.0-windows\CS311_Project2_LTC.deps.json
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\bin\Debug\net6.0-windows\CS311_Project2_LTC.runtimeconfig.json
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\bin\Debug\net6.0-windows\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\bin\Debug\net6.0-windows\CS311_Project2_LTC.pdb
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.formCraps.resources
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.csproj.GenerateResource.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.AssemblyInfoInputs.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.AssemblyInfo.cs
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\refint\CS311_Project2_LTC.dll
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.pdb
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\CS311_Project2_LTC.genruntimeconfig.cache
+C:\Users\lawre\Projects\bellarmine\CS311\Module1\CS311_Project2_LTC - Copy\obj\Debug\net6.0-windows\ref\CS311_Project2_LTC.dll
