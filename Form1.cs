@@ -155,8 +155,8 @@ namespace CS311_Project2_LTC
             result = MessageBox.Show("You have no more money left. Reset Game?", "Reset Game?", messageBoxButtons);
             if (result == System.Windows.Forms.DialogResult.Yes)
             {
-                int newBankAmount = 100;
-                lblBank.Text = $"${newBankAmount}";
+                bankAmount = 100;
+                lblBank.Text = $"${bankAmount}";
                 textBoxBetAmount.Text = "";
                 resumeGame();
             }
@@ -208,6 +208,7 @@ namespace CS311_Project2_LTC
             if (result == DialogResult.OK)
             {
                 btnRoll.Enabled = true;
+                textBoxBetAmount.Text = " ";
                 textBoxBetAmount.Enabled = true;
             }
         }
